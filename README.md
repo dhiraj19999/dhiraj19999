@@ -1,14 +1,12 @@
 
 
 
+
 <h1 align="center">Hi 👋, I'm Dhiraj Garad</h1>
 <h3 align="center">Aspiring Full Stack developer, specialized in frontend</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj19999&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj19999" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhiraj19999" alt="dhiraj19999" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web developing**
 
