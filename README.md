@@ -1,5 +1,5 @@
 
-[![MasterHead](https://mctechpro.com/wp-content/uploads/2021/06/Learn-All-About-Frontend-Development-with-Most-Advanced-Web-Designing-and-Development-Courses.jpg)](https://dhiraj19999.io)
+
 
 <h1 align="center">Hi 👋, I'm Dhiraj Garad</h1>
 <h3 align="center">Learning MERN Stack, Aspiring Full Stack Web Developer at Masai School, Bengaluru, Karnataka</h3>
