@@ -1,23 +1,23 @@
 
 <img align="center" style="width:100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="img gif" />
-    <h1 align="center">Hi 👋, I'm Parag Sonje</h1>
+    <h1 align="center">Hi 👋, I'm Dhiraj Garad</h1>
     <p align="center">I am a passionate aspiring Full Stack Web Developer. My passion for technology has brought me to learn HTML, CSS, JavaScript, React.js, Redux.js, TypeScript and many other tach stacks. Other than technology I love cricket and listening to music..</p>
-    <p  align="left"> <img src="https://komarev.com/ghpvc/?username=parag2510&label=Profile%20views&color=0e75b6&style=flat" alt="parag2510" /> </p>
+   
     
 <!--    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  style="margin-left:25%" src="https://github-profile-trophy.vercel.app/?username=parag2510" alt="parag2510" /></a> </p> -->
    
    <h1> ## 🙋‍♂️ About Me </h1>
         <img align="right" alt="Coding" width="400"   src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47k6kikx655y5zhpu3amg8fwu6zv2dwwpvz2eydv9t&rid=giphy.gif&ct=g"/> 
     
-   - 🔭 I’m currently working on **Job as Mern Stack Developer**
+   - 🔭 I’m currently working on **Monday.com Clone**
     
-   - 🌱 I’m currently learning **New Technologies**
+   - 🌱 I’m currently learning **Mern Stack**
     
-   - 👨‍💻 All of my projects are available at [https://github.com/Parag2510](https://github.com/Parag2510)
+   - 👨‍💻 All of my projects are available at [https://github.com/dhiraj19999](https://github.com/dhiraj19999)
     
-   - 💬 Ask me about **HTML , CSS , JavaScript , React , TypeScript , Redux**
+   - 💬 Ask me about **Mern Stack**
     
-   - 📫 How to reach me **sonjeparag75@gmail.com**
+   - 📫 How to reach me **dhirajgarad46@gmail.com**
 
 
 
