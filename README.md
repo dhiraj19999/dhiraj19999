@@ -3,6 +3,8 @@
     <h1 align="center">Hi 👋, I'm Dhiraj Garad</h1>
     <p align="center">I am a passionate aspiring Full Stack Web Developer. My passion for technology has brought me to learn HTML, CSS, JavaScript, React.js, Redux.js, TypeScript and many other tach stacks. Other than technology I love cricket and listening to music..</p>
    
+    <p  align="left"> <img src="https://komarev.com/ghpvc/?username=dhiraj19999&label=Profile%20views&color=0e75b6&style=flat" alt="dhiraj19999" /> </p>
+    
     
 <!--    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img  style="margin-left:25%" src="https://github-profile-trophy.vercel.app/?username=parag2510" alt="parag2510" /></a> </p> -->
    
