@@ -50,7 +50,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=dhiraj19999&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhiraj19999&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=DD2669&fire=DD2727&currStreakNum=DD2654&sideNums=DD345E&currStreakLabel=DD2F75&sideLabels=DD2F75&dates=DD246F)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dhiraj19999&theme=midnight-purple&hide_border=true)<br/>
+
 
 
 
